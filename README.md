@@ -30,5 +30,6 @@ To run the main program and execute the entire recommendation system, use the `m
 ```python
 if __name__ == '__main__':
     main()
+```
 
 This project was part of the course Data Mining Techniques at the Vrije Universiteit Amsterdam (VU).
